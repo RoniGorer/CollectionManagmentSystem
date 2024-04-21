@@ -1,0 +1,1 @@
+C:\Users\ediim\Desktop\CollectionManagmentSystem\CollectionManagmentSystem\CollectionManagmentSystem.csproj;x64
